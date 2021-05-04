@@ -1,6 +1,3 @@
 <?PHP
-echo 'Nama  : mariati';
-echo 'Kelas : Cloud Compunting-i';
-echo 'STB   : 182376';
-echo 'kampus: Universitas Dipanegara';
+echo 'Nama  : mariati, Kelas : Cloud Compunting-i , STB   : 182376 , kampus: Universitas Dipanegara';
 ?>
